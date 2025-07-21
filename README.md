@@ -55,10 +55,6 @@
 ## 📈 My GitHub Stats and Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-thorat-8&theme=github" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkar-thorat-8&show_icons=true&theme=github" alt="GitHub Stats" />
 </p>
 
