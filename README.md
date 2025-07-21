@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Omkar Thorat</h1>
-<h3 align="center">🚀 Java Developer | 💻 Full Stack Learner | 🌱 Spring and Spring Boot </h3>
+<h1 align="center">Hi there 👋, I'm Ankit Thorat</h1>
+<h3 align="center">🚀 Java Developer | 🌱 Full Stack Learner | ☕ Code & Coffee Lover</h3>
 
-<img  align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=fff" />
 
 ---
 
@@ -11,7 +11,7 @@
 - 🌱 Learning **Angular**, **Advanced Java**, and **JPA/Hibernate**
 - 👨‍💻 Passionate about building real-world web applications
 - 💬 Ask me about **Core Java**, **Spring Boot**, **SQL**, or anything Java
-- 📫 Reach me at: `omkar.v.thorat.8@example.com`
+- 📫 Reach me at: `ankit@example.com`
 - ✨ Fun fact: I like debugging more than writing code 😄
 
 ---
