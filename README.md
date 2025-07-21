@@ -8,10 +8,10 @@
 ## 💡 About Me
 
 - 🔭 I’m currently working on **Spring Boot Full Stack Projects**
-- 🌱 Learning **Angular**, **Advanced Java**, and **JPA/Hibernate**
+- 🌱 Learning **Advanced Spring Boot**.
 - 👨‍💻 Passionate about building real-world web applications
 - 💬 Ask me about **Core Java**, **Spring Boot**, **SQL**, or anything Java
-- 📫 Reach me at: `ankit@example.com`
+- 📫 Reach me at: `omkar.v.thorat.8@example.com`
 - ✨ Fun fact: I like debugging more than writing code 😄
 
 ---
@@ -21,35 +21,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,git,github" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=algolia&hide_border=true" alt="streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=algolia&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=algolia&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
-</p>
-
----
-
-## 🚀 Projects Showcase
-
-Here are a few projects I’m proud of:
-
-- 🎓 [Student Management System](https://github.com/your-username/student-management-system)
-- 📅 [Meeting Scheduler - Spring Boot App](https://github.com/your-username/meeting-scheduler)
-- 🏥 [Hospital Management System (Java)](https://github.com/your-username/hospital-management)
 
 ---
 
