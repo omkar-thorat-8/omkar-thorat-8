@@ -51,6 +51,23 @@
 </p>
 
 ---
+
+## 📈 My GitHub Stats and Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-thorat-8&theme=github" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkar-thorat-8&show_icons=true&theme=github" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-thorat-8&layout=compact&theme=github" alt="Top Languages" />
+</p>
+
+---
+
 ## 🟩 GitHub Contributions
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/omkar-thorat-8)
