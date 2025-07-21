@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ankit Thorat</h1>
+<h1 align="center">Hi 👋, I'm Omkar Thorat</h1>
 <h3 align="center">A passionate Java Developer and Full Stack Learner</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 - 🔭 I’m currently working on **Spring Boot Projects**
-- 🌱 I’m learning **Angular and Advanced Java**
+- 🌱 I’m learning **Advanced Java and Angular**
 - 💬 Ask me about **Core Java, Spring Boot, SQL**
-- 📫 How to reach me: `ankit@example.com`
+- 📫 How to reach me: `omkar.thorat.8@example.com`
 - ⚡ Fun fact: I love exploring new tech and building real-world apps
 
 ---
@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ankit@example.com">
+  <a href="mailto:omkar.thorat.8@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
