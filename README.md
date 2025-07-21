@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Omkar Thorat</h1>
 <h3 align="center">🚀 Java Developer | 💻 Full Stack Learner | 🌱 Spring and Spring Boot </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=fff" />
+<img  align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=fff" />
 
 ---
 
