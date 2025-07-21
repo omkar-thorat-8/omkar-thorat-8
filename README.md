@@ -51,5 +51,9 @@
 </p>
 
 ---
+## 🟩 GitHub Contributions
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/omkar-thorat-8)
+
 
 ⭐ **Thanks for visiting! If you like my work, consider giving a ⭐ to one of my repositories.**
