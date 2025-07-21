@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Ankit Thorat</h1>
-<h3 align="center">🚀 Java Developer | 🌱 Full Stack Learner | ☕ Code & Coffee Lover</h3>
+<h1 align="center">Hi there 👋, I'm Omkar Thorat</h1>
+<h3 align="center">🚀 Java Developer | 🌱 Full Stack Learner | ☕ Code & Coffee </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=fff" />
 
@@ -8,10 +8,10 @@
 ## 💡 About Me
 
 - 🔭 I’m currently working on **Spring Boot Full Stack Projects**
-- 🌱 Learning **Advanced Spring Boot**.
+- 🌱 Learning **More about Spring Boot**.
 - 👨‍💻 Passionate about building real-world web applications
 - 💬 Ask me about **Core Java**, **Spring Boot**, **SQL**, or anything Java
-- 📫 Reach me at: `omkar.v.thorat.8@example.com`
+- 📫 Reach me at: `omkar.v.thorat.8@gmail.com`
 - ✨ Fun fact: I like debugging more than writing code 😄
 
 ---
@@ -27,13 +27,13 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:ankit@example.com">
+  <a href="mailto:omkar.v.thorat.8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/nkitoo8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/omkar-thorat-8" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
